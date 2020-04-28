@@ -1,7 +1,7 @@
 /*
  * tex-macro-replace.c
  *	replaces all macros in tex file by original tex command
- *  Created on: 2020年4月26日
+ *  Created on: 04/26/2020
  *  Author: Wenqing Hu (Missouri S&T)
  */
 
