@@ -177,6 +177,7 @@ struct ReplaceTable replace[]={
 {"\\iX","\\mathfrak{X}"},
 {"\\iY","\\mathfrak{Y}"},
 {"\\bfA","\\mathbf{A}"},
+{"\\bfB","\\mathbf{B}"},
 {"\\bfP","\\mathbf{P}"},
 {"\\bfS","\\mathbf{S}"},
 {"\\bfX","\\mathbf{X}"},
